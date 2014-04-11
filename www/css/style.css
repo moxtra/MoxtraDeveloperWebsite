@@ -2360,6 +2360,7 @@ a.logo.dark:hover{
 }
 
 
+
 /*
  * Contacts section
  */
@@ -2374,7 +2375,7 @@ a.logo.dark:hover{
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	border: 2px solid #151515;
-	
+
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
@@ -2402,6 +2403,10 @@ a.logo.dark:hover{
 	font-size: 40px;
 }
 
+.phone-number a {
+  color:#000000;
+}
+
 
 /* Other contact blocks (email, address) */
 
@@ -2427,7 +2432,7 @@ a.logo.dark:hover{
 
 /* Google maps */
 
-.google-map{	
+.google-map{
 	background: #333;
 }
 #map-canvas{
@@ -2442,7 +2447,7 @@ a.logo.dark:hover{
 }
 
 
-/* Contacts form */ 
+/* Contacts form */
 
 .map-fix{
 	margin-top: 7px;
@@ -2451,16 +2456,16 @@ a.logo.dark:hover{
 	margin-top: -30px;
 	height: 30px;
 	background: #fff;
-	
+
 	-webkit-border-top-left-radius: 3px;
 	-webkit-border-top-right-radius: 3px;
 	-moz-border-radius-topleft: 3px;
 	-moz-border-radius-topright: 3px;
 	border-top-left-radius: 3px;
 	border-top-right-radius: 3px;
-	
 
-	
+
+
 }
 .contact-form-wrap{
 	padding: 0 30px;
