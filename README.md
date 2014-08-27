@@ -1,4 +1,4 @@
-MoxtraDeveloperWebsite
+DeveloperWebsite
 ======================
 
-Moxtra Developer Website
+Developer Website
